@@ -12,6 +12,8 @@
 
 		<div id="bookContainer"></div>
 
+		<p>234234234234</p>
+
 	</div>
 
 	<script id="bookTemplate" type="text/x-jQuery-tmpl">
@@ -21,6 +23,8 @@
 			price: ${formatPrice(price)}
 		</div>
 	</script>
+
+
 
 	<script type="text/javascript">
 		// Create an array of books
